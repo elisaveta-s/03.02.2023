@@ -14,7 +14,7 @@ div_2.className = "msg_2";
 let div_3 = document.createElement('div');
 div_3.className = "msg_3";
 let div_4 = document.createElement('div');
-div_4.className = "msg_3";
+div_4.className = "msg_2";
 
 
 div_1.innerHTML = `${name_3} : Жили-были дед да бабка. Как-то сидел дед и есть захотел. Вот говорит бабке.`;
